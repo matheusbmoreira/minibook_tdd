@@ -1,3 +1,3 @@
-Teste Post
+#SCREENSHOT
 
-![Laser Cutter Panel #1] (https://github.com/matheusbmoreira/minibook_tdd/blob/master/screenshot/TestePost.jpg)
+![alt tag] (https://github.com/matheusbmoreira/minibook_tdd/blob/master/screenshot/TesteUsuario.jpg)
